@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+   <data>
+      <room>
+     <id>room_1</id>
+     <name>Meeting Room 1</name>
+     <table>
+         <id>1</id>
+         <number>T1</number>
+   </table>
+   </data>
+</response>
