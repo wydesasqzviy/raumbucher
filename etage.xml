@@ -10,6 +10,6 @@
          <id>2</id>
          <name>Second Floor</name>
          <svgUrl>/floor2.svg</svgUrl>
-         </floor>
+      </floor>
    </data>
 </response>
