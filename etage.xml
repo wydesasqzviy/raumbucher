@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response>
    <data>
-      <floor>
-         <id>1</id>
-         <name>First Floor</name>
-         <svgUrl>/floor1.svg</svgUrl>
-         <isFirstFloor>true</isFirstFloor>
-      </floor>
-      <floor>
-         <id>2</id>
-         <name>Second Floor</name>
-         <svgUrl>/floor2.svg</svgUrl>
-         <isFirstFloor>false</isFirstFloor>
-      </floor>
+      <floors>
+         <floor>
+            <id>1</id>
+            <name>First Floor</name>
+            <svgUrl>/floor1.svg</svgUrl>
+            <isFirstFloor>true</isFirstFloor>
+         </floor>
+         <floor>
+            <id>2</id>
+            <name>Second Floor</name>
+            <svgUrl>/floor2.svg</svgUrl>
+            <isFirstFloor>false</isFirstFloor>
+         </floor>
+      <floors>
    </data>
 </response>
