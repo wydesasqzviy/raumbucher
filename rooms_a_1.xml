@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+   <data>
+      <rooms>
+      <room>
+         <id>R-1</id>
+         <status>a</status>
+      </room>
+      </rooms>
+   </data>
+</response>
