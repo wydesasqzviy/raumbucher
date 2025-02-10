@@ -3,7 +3,7 @@
    <data>
       <rooms>
       <room>
-         <id>R-1</id>
+         <roomid>R-1</roomid>
          <status>a</status>
       </room>
       </rooms>
