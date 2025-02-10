@@ -4,7 +4,7 @@
          <floor>
             <id>1</id>
             <name>First Floor</name>
-            <svgUrl>https://raw.githubusercontent.com/wydesasqzviy/raumbucher/refs/heads/main/Raumkarte.svg</svgUrl>
+            <svgUrl>https://raw.githubusercontent.com/wydesasqzviy/raumbucher/refs/heads/main/floors3.svg</svgUrl>
             <isFirstFloor>true</isFirstFloor>
          </floor>
          <floor>
