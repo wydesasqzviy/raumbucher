@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+   <data>
+<response>
+  <resources>
+    <resource>
+      <id>car_001</id>
+      <model>Tesla Model 3</model>
+      <description>Electric sedan with autopilot capability and 350km range</description>
+      <location>Parking Level B1 - Spot 15</location>
+      <imageUrl>/assets/images/cars/tesla-model-3.jpg</imageUrl>
+      <type>car</type>
+      <status>available</status>
+      <features>
+        <feature>Electric</feature>
+        <feature>Autopilot</feature>
+        <feature>5 Seats</feature>
+      </features>
+    </resource>
+    <resource>
+      <id>car_002</id>
+      <model>BMW i3</model>
+      <description>Compact electric vehicle perfect for city driving</description>
+      <location>Parking Level B1 - Spot 17</location>
+      <imageUrl>/assets/images/cars/bmw-i3.jpg</imageUrl>
+      <type>car</type>
+      <status>available</status>
+      <features>
+        <feature>Electric</feature>
+        <feature>4 Seats</feature>
+        <feature>Park Assist</feature>
+      </features>
+    </resource>
+  </resources>
+</response>
+   </data>
+</response>
