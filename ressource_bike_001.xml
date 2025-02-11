@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <resource>
+        <id>bike_001</id>
+        <type>bike</type>
+        <model>City Bike Premium</model>
+        <description>Electric city bike with basket and light system</description>
+        <location>Bike Station North</location>
+        <imageUrl>https://example.com/images/citybike-premium.jpg</imageUrl>
+        <status>available</status>
+        <features>
+            <feature>Electric assist</feature>
+            <feature>Front basket</feature>
+            <feature>LED lights</feature>
+        </features>
+    </resource>
+</data>
