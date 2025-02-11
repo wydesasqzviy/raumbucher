@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <data>
+        <resources>
+            <ids>
+                <id>bike_001</id>
+                <id>bike_002</id>
+                <id>bike_003</id>
+                <id>car_001</id>
+                <id>car_002</id>
+            </ids>
+        </resources>
+    </data>
+</response> 
