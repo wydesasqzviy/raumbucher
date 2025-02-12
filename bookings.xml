@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <bookings>
+        <ids>
+            <id>booking_001</id>
+            <id>booking_002</id>
+            <id>booking_003</id>
+        </ids>
+    </bookings>
+</data>
