@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <data>
+    <locations>
+      <location>
+        <id>hq</id>
+        <name>Headquarters</name>
+        <description>Main office building in downtown</description>
+        <services>
+          <rooms>true</rooms>
+          <bikes>true</bikes>
+          <cars>true</cars>
+        </services>
+      </location>
+      <location>
+        <id>north</id>
+        <name>North Campus</name>
+        <description>Research and development facility</description>
+        <services>
+          <rooms>true</rooms>
+          <bikes>false</bikes>
+          <cars>false</cars>
+        </services>
+      </location>
+      <location>
+        <id>south</id>
+        <name>South Office</name>
+        <description>Sales and customer support center</description>
+        <services>
+          <rooms>true</rooms>
+          <bikes>true</bikes>
+          <cars>false</cars>
+        </services>
+      </location>
+    </locations>
+  </data>
+</response>
