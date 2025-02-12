@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <response>
     <data>
@@ -13,6 +14,7 @@
                 <name>Tesla Model 3</name>
                 <location>Parking Spot A1</location>
                 <imageUrl>https://images.unsplash.com/photo-1541899481282-d53bffe3c35d</imageUrl>
+                <office>NORD</office>
             </resourceDetails>
         </booking>
     </data>
