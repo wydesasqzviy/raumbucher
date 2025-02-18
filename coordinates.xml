@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <data>
+    <users>
+      <user>
+        <userid>user1</userid>
+        <x>150</x>
+        <y>200</y>
+      </user>
+      <user>
+        <userid>user2</userid>
+        <x>300</x>
+        <y>400</y>
+      </user>
+      <user>
+        <userid>user3</userid>
+        <x>450</x>
+        <y>100</y>
+      </user>
+    </users>
+  </data>
+</response>
